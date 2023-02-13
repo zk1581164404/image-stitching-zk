@@ -1,15 +1,5 @@
-# panoramas-image-stitching
-
-
-## Requirement
-
-- python3 (or higher)
-- opencv 3 (4+ may encounter issue. ref [#11](https://github.com/SSARCandy/panoramas-image-stitching/issues/11))
-
-You will need to install some package using `pip3`:
-
-- numpy
-- matplotlib
+## citization from
+https://ssarcandy.tw/2017/05/26/panorama-image-stitching/
 
 
 ## Usage
@@ -60,12 +50,3 @@ The program will output:
 - Every stitched images, with filename `0.jpg`, `1.jpg`, `2.jpg`, ...
 - A aligned image `aligned.jpg`
 - A cropped image `cropped.jpg`
-
-## Parameters
-
-The program have some constant parameters that can easily changed in `constant.py`.
-
-## Environment
-
-I test my code in Window10/Linux/MacOS.  
-It should work fine in these system.
