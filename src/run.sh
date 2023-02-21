@@ -1,1 +1,1 @@
-python ./main.py ../input_image/test/ ./output/
+python ./main.py ../input_image/forest_with_fire/ ./output/
